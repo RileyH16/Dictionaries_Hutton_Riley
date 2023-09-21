@@ -1,0 +1,14 @@
+C:\Users\RileyHutton\source\repos\Dictionaries_Hutton_Riley\Dictionaries_Hutton_Riley\bin\Debug\net6.0\Dictionaries_Hutton_Riley.exe
+C:\Users\RileyHutton\source\repos\Dictionaries_Hutton_Riley\Dictionaries_Hutton_Riley\bin\Debug\net6.0\Dictionaries_Hutton_Riley.deps.json
+C:\Users\RileyHutton\source\repos\Dictionaries_Hutton_Riley\Dictionaries_Hutton_Riley\bin\Debug\net6.0\Dictionaries_Hutton_Riley.runtimeconfig.json
+C:\Users\RileyHutton\source\repos\Dictionaries_Hutton_Riley\Dictionaries_Hutton_Riley\bin\Debug\net6.0\Dictionaries_Hutton_Riley.dll
+C:\Users\RileyHutton\source\repos\Dictionaries_Hutton_Riley\Dictionaries_Hutton_Riley\bin\Debug\net6.0\Dictionaries_Hutton_Riley.pdb
+C:\Users\RileyHutton\source\repos\Dictionaries_Hutton_Riley\Dictionaries_Hutton_Riley\obj\Debug\net6.0\Dictionaries_Hutton_Riley.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RileyHutton\source\repos\Dictionaries_Hutton_Riley\Dictionaries_Hutton_Riley\obj\Debug\net6.0\Dictionaries_Hutton_Riley.AssemblyInfoInputs.cache
+C:\Users\RileyHutton\source\repos\Dictionaries_Hutton_Riley\Dictionaries_Hutton_Riley\obj\Debug\net6.0\Dictionaries_Hutton_Riley.AssemblyInfo.cs
+C:\Users\RileyHutton\source\repos\Dictionaries_Hutton_Riley\Dictionaries_Hutton_Riley\obj\Debug\net6.0\Dictionaries_Hutton_Riley.csproj.CoreCompileInputs.cache
+C:\Users\RileyHutton\source\repos\Dictionaries_Hutton_Riley\Dictionaries_Hutton_Riley\obj\Debug\net6.0\Dictionaries_Hutton_Riley.dll
+C:\Users\RileyHutton\source\repos\Dictionaries_Hutton_Riley\Dictionaries_Hutton_Riley\obj\Debug\net6.0\refint\Dictionaries_Hutton_Riley.dll
+C:\Users\RileyHutton\source\repos\Dictionaries_Hutton_Riley\Dictionaries_Hutton_Riley\obj\Debug\net6.0\Dictionaries_Hutton_Riley.pdb
+C:\Users\RileyHutton\source\repos\Dictionaries_Hutton_Riley\Dictionaries_Hutton_Riley\obj\Debug\net6.0\Dictionaries_Hutton_Riley.genruntimeconfig.cache
+C:\Users\RileyHutton\source\repos\Dictionaries_Hutton_Riley\Dictionaries_Hutton_Riley\obj\Debug\net6.0\ref\Dictionaries_Hutton_Riley.dll
